@@ -7,5 +7,6 @@ cn.edu.hfut.dmic.webcollector.model
 cn.edu.hfut.dmic.webcollector.net
 cn.edu.hfut.dmic.webcollector.output
 cn.edu.hfut.dmic.webcollector.parser
+cn.edu.hfut.dmic.webcollector.plugin.redis
 cn.edu.hfut.dmic.webcollector.ui
 cn.edu.hfut.dmic.webcollector.util
